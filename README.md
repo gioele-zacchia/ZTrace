@@ -7,7 +7,7 @@ git clone https://github.com/gioele-zacchia/ZTrace.git
 make && sudo make install
 ```
 
-L'API Espone 2 funzioni
+La libreria espone 2 funzioni
 ```
 #include<ZTR/ZTrace.h>
 
