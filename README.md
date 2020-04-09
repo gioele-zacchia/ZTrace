@@ -3,7 +3,7 @@ C Stack Trace
 
 Per installare 
 ```
-https://github.com/gioele-zacchia/ZTrace.git
+git clone https://github.com/gioele-zacchia/ZTrace.git
 make && sudo make install
 ```
 
