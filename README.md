@@ -4,6 +4,7 @@ C Stack Trace
 Per installare 
 ```
 git clone https://github.com/gioele-zacchia/ZTrace.git
+cd ZTrace
 make && sudo make install
 ```
 
