@@ -17,7 +17,7 @@ extern void ZTClean();
 
 ```
 
-Chiamare *ZTInstall()* all'avvio dell'applicazione e *ZTClean()* alla chiusura per rilasciare le risorse
+Chiamare `ZTInstall()` all'avvio dell'applicazione e `ZTClean()` alla chiusura per rilasciare le risorse
 
 Per compilare con ZTrace è necessario specificare a gcc il parametro `-lZTrace` e, se si vuole avere le indicazioni di riga, con `-g`
 
